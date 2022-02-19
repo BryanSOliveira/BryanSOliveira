@@ -1,7 +1,8 @@
 <p>Hi, my name is Bryan 👨🏻‍💻 </p>
 <p>I'm a systems analysis and development student. <br>
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.</p>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryansantos13/)](https://www.linkedin.com/in/bryansantos13/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.dvdsantos@gmail.com)](mailto:sp.bryansantos@gmail.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryansantos13/)](https://www.linkedin.com/in/bryansantos13/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sp.bryansantos@gmail.com)](mailto:sp.bryansantos@gmail.com)
 
 Skills
 
